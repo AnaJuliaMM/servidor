@@ -1,0 +1,41 @@
+﻿pais;produto;quantidade_vendida;preco_unitario;receita_total
+Brasil;Software;142;533,17;75710,68
+Brasil;Consultoria;146;497,97;72703,05
+Brasil;Serviços Cloud;305;734,5;224022,43
+Brasil;Treinamento;139;979,42;136140
+Estados Unidos;Software;188;161,3;30325,23
+Estados Unidos;Consultoria;258;765,7;197550,03
+Estados Unidos;Serviços Cloud;260;477,47;124141,55
+Estados Unidos;Treinamento;252;943,06;237650,63
+China;Software;436;604,86;263718,03
+China;Consultoria;324;649,02;210281,09
+China;Serviços Cloud;55;753,63;41449,71
+China;Treinamento;344;433,34;149068,8
+Alemanha;Software;251;610,84;153320,52
+Alemanha;Consultoria;265;942,92;249874,22
+Alemanha;Serviços Cloud;184;528,78;97294,81
+Alemanha;Treinamento;368;175,06;64422,57
+Japão;Software;422;350,78;148030,38
+Japão;Consultoria;286;187;53481,11
+Japão;Serviços Cloud;122;203,38;24812,14
+Japão;Treinamento;402;703,44;282780,97
+Reino Unido;Software;172;999,32;171883,44
+Reino Unido;Consultoria;195;231,91;45221,63
+Reino Unido;Serviços Cloud;268;404,84;108497,24
+Reino Unido;Treinamento;425;883,45;375465,12
+França;Software;195;502,35;97959,21
+França;Consultoria;102;319,76;32615,32
+França;Serviços Cloud;344;438,5;150842,85
+França;Treinamento;115;448,29;51553,4
+Índia;Software;221;821,56;181563,69
+Índia;Consultoria;304;168,02;51076,66
+Índia;Serviços Cloud;341;933,09;318183,01
+Índia;Treinamento;327;571,74;186958,31
+Canadá;Software;106;734,38;77844,27
+Canadá;Consultoria;424;185,4;78609,27
+Canadá;Serviços Cloud;77;447,65;34469,4
+Canadá;Treinamento;430;965,27;415064,72
+Austrália;Software;356;571,13;203322,22
+Austrália;Consultoria;439;456,22;200278,92
+Austrália;Serviços Cloud;307;489,75;150352,33
+Austrália;Treinamento;69;407,17;28094,6

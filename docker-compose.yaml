@@ -1,0 +1,13 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: postgres-aula
+    restart: always
+    ports:
+      - "5050:5432"
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: admin
+      POSTGRES_DB: aula
+    volumes:
+      - ./data:/var/lib/postgresql/data
